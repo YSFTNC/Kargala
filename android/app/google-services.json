@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "221055607585",
+    "project_id": "kargala-65983",
+    "storage_bucket": "kargala-65983.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221055607585:android:72cc8ca28c3b87ee91d460",
+        "android_client_info": {
+          "package_name": "com.example.kargala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221055607585-i7qcq603r6u0enmm3ra1gjnm4g95o3j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kargala",
+            "certificate_hash": "f1d1d740969cc5552f7c0cad9b78b73982dd63e7"
+          }
+        },
+        {
+          "client_id": "221055607585-15g0o0bk6rgo5580358cv2b2q9t93511.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARWlfwRcy3gQYwBwnRruzn52P8QFNeW2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221055607585-15g0o0bk6rgo5580358cv2b2q9t93511.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
